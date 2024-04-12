@@ -1,0 +1,9 @@
+:root{
+  --primary:var(--primary) red;
+  --secondary:var(--secondary) blue;
+  --tertiary:var(--tertiary) green;
+
+  --site-width:var(--site-width) 1500px;
+  --gutter:var(--gutter) 20px;
+  
+}
